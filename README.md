@@ -11,7 +11,7 @@ Features
 - 🔄 Multiple movement modes
 - 🔧 Expandable robotics platform
 
-Hardware
+Hardwar
 
 - Arduino
 - Servo motors
